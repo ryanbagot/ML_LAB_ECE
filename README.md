@@ -23,4 +23,4 @@ Les objectifs de ce laboratoire sont :
 
 1. Clonez le projet depuis GitHub :
    ```bash
-   git clone [https://github.com/votre-projet.git](https://github.com/ryanbagot/ML_LAB_ECE.git
+   git clone https://github.com/votre-projet.git](https://github.com/ryanbagot/ML_LAB_ECE.git
